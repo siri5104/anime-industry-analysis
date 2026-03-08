@@ -1,4 +1,5 @@
 📊 Anime Industry Analytics Dashboard
+
 📌 Project Overview
 
 This project analyzes 10,000 anime titles to uncover patterns in ratings, audience engagement, content formats, and industry trends.
@@ -31,9 +32,6 @@ Visualization
 
 Power BI
 
-Version Control
-
-GitHub
 
 📂 Dataset
 
